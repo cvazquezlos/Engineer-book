@@ -1,3 +1,5 @@
 <resources>
-    <string name="app_name">EngineerBook</string>
+    <string name="app_name">Engineer Book</string>
+    <string name="action_search">Search</string>
+    <string name="action_settings">Settings</string>
 </resources>
